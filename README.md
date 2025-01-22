@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DooBzz
-- 👀 I’m interested in learning Python and interact with likeminded people
+- 👀 I’m interested in learning Python 
 - 🌱 I’m currently learning the basics
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate with like minded people
 - 📫 How to reach me (will update in due time)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
